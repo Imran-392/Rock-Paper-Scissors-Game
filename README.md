@@ -25,9 +25,6 @@ A fully interactive **Rock Paper Scissors** game built using **HTML, CSS, and Ja
 - **CSS** – Styling for a visually appealing interface.
 - **JavaScript** – Handles game logic and interactivity.
 
-## 📷 Preview
-![Game Screenshot](screenshot.png) *(Replace with an actual screenshot of your game)*
-
 ## 📌 Future Improvements
 
 - Add sound effects for better engagement.
